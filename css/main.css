@@ -762,7 +762,7 @@ a.accent.accent-link.menu__link::after {
 .name {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.19;
+  line-height: 1.16;
   letter-spacing: 0.03em;
   text-align: center;
   color: var(--title-color);
