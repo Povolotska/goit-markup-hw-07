@@ -468,7 +468,6 @@ a.accent.accent-link.menu__link::after {
   justify-content: center;
   margin-bottom: 50px;
 }
-
 .filter-container {
   padding-bottom: 94px;
   padding-top: 94px;
@@ -541,7 +540,6 @@ a.accent.accent-link.menu__link::after {
   display: flex;
   gap: 30px;
 }
-
 .text__name {
   width: 270px;
 }
