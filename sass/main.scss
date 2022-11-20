@@ -1,8 +1,9 @@
 @import './base/reset.scss';
+@import "./base/common";
+
 @import './utils/placeholders';
 @import './utils/mixin';
 @import "./utils/vars";
-@import "./base/common";
 @import './utils/hidden';
 
 @import './components/conteiner';
