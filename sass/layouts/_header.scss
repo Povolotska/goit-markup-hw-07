@@ -11,7 +11,6 @@
 }
 
 
-
 .navigation {
     @extend %list;
 }
@@ -54,7 +53,7 @@
         }
 }
 
-.logo {
+.navigation__logo{
     color: var(--black);
 }
 

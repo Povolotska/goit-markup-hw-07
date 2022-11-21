@@ -1,4 +1,4 @@
-.section-image {
+.image  {
     @include font(700, 36px, 1.17, 0.03em);
     // font-weight: 700;
     // font-size: 36px;
@@ -12,7 +12,7 @@
     padding-bottom: 94px;
 }
 
-.section-image {
+.title-image {
     @include font(700, 36px, 1.17, 0.03em);
     // font-weight: 700;
     // font-size: 36px;
